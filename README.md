@@ -11,9 +11,12 @@ The project includes the following folder/files:
 - Source - the folder with c++ files with Extended Kalman Filter algorithm.
 
 ## Compiling and running the project
-The project can be compiled and run by using the following command: 
+The project can be compiled and run by using the following command:
+
 `mkdir build && cd build`
+
 `cmake .. && make`
+
 `./ExtendedKF path/to/input.txt path/to/output.txt`
 
 ## Results
